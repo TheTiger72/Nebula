@@ -184,7 +184,9 @@ const generateServerCommand: CommandModule = {
 
         logger.debug(`Root set to ${argv.root}`)
         logger.debug(`Generating server ${argv.id} for Minecraft ${argv.version}.`,
-            `\n\t└ Forge version: ${argv.forge}`)
+            `\n\t└ Forge version: ${argv.forge}`,
+            `\n\t└ Fabric version: ${argv.fabric}`
+        )
 
         const minecraftVersion = new MinecraftVersion(argv.version as string)
 
@@ -197,12 +199,22 @@ const generateServerCommand: CommandModule = {
             }
         }
 
+        if(argv.fabric != null) {
+            if (VersionUtil.isPromotionVersion(argv.fabric as string)) {
+                logger.debug(`Resolving ${argv.fabric} Fabric Version..`)
+                const version = await VersionUtil.getPromotedFabricVersion(argv.fabric as string)
+                logger.debug(`Fabric version set to ${version}`)
+                argv.fabric = version
+            }
+        }
+
         const serverStruct = new ServerStructure(argv.root as string, getBaseURL(), false, false)
         serverStruct.createServer(
             argv.id as string,
             minecraftVersion,
             {
-                forgeVersion: argv.forge as string
+                forgeVersion: argv.forge as string,
+                fabricVersion: argv.fabric as string
             }
         )
     }
@@ -235,6 +247,7 @@ const generateServerCurseForgeCommand: CommandModule = {
         const minecraftVersion = new MinecraftVersion(modpackManifest.minecraft.version)
 
         // Extract forge version
+        // TODO Support fabric
         const forgeModLoader = modpackManifest.minecraft.modLoaders.find(({ id }) => id.toLowerCase().startsWith('forge-'))
         const forgeVersion = forgeModLoader != null ? forgeModLoader.id.substring('forge-'.length) : undefined
         logger.debug(`Forge version set to ${forgeVersion}`)

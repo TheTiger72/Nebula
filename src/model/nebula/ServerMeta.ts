@@ -15,6 +15,7 @@ export interface UntrackedFilesOption {
 export interface ServerMetaOptions {
     version?: string
     forgeVersion?: string
+    fabricVersion?: string
 }
 
 export function getDefaultServerMeta(id: string, version: string, options?: ServerMetaOptions): ServerMeta {
@@ -39,6 +40,13 @@ export function getDefaultServerMeta(id: string, version: string, options?: Serv
         servMeta.meta.description = `${servMeta.meta.description} (Forge v${options.forgeVersion})`
         servMeta.forge = {
             version: options.forgeVersion
+        }
+    }
+
+    if(options?.fabricVersion) {
+        servMeta.meta.description = `${servMeta.meta.description} (Fabric v${options.fabricVersion})`
+        servMeta.fabric = {
+            version: options.fabricVersion
         }
     }
 
@@ -71,6 +79,17 @@ export interface ServerMeta {
         /**
          * The forge version. This does NOT include the minecraft version.
          * Ex. 14.23.5.2854
+         */
+        version: string
+    }
+
+    /**
+     * Properties related to Fabric.
+     */
+    fabric?: {
+        /**
+         * The fabric loader version. This does NOT include the minecraft version.
+         * Ex. 0.14.18
          */
         version: string
     }
