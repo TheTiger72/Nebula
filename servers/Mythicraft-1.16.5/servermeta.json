@@ -10,8 +10,8 @@
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": true,
-    "autoconnect": true
+    "mainServer": false,
+    "autoconnect": false
   },
   "forge": {
     "version": "36.2.34"
