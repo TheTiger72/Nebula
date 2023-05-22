@@ -29,6 +29,7 @@
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
+            "size": 212608,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
           },
           "subModules": [
@@ -37,6 +38,7 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
+                "size": 13577,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
               }
             },
@@ -46,6 +48,7 @@
               "type": "Library",
               "classpath": true,
               "artifact": {
+                "size": 2773337,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
               },
               "subModules": []
@@ -56,6 +59,7 @@
               "type": "Library",
               "classpath": true,
               "artifact": {
+                "size": 4214137,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
               },
               "subModules": []
@@ -66,6 +70,7 @@
               "type": "Library",
               "classpath": true,
               "artifact": {
+                "size": 11352644,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -76,6 +81,7 @@
               "type": "Library",
               "classpath": true,
               "artifact": {
+                "size": 9118806,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
@@ -86,6 +92,7 @@
               "type": "Library",
               "classpath": true,
               "artifact": {
+                "size": 8428369,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
@@ -95,6 +102,7 @@
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
+                "size": 121790,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
@@ -103,6 +111,7 @@
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
+                "size": 72641,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
@@ -111,6 +120,7 @@
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
+                "size": 52662,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
@@ -119,6 +129,7 @@
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
+                "size": 84679,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
@@ -127,6 +138,7 @@
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
+                "size": 34257,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
@@ -135,6 +147,7 @@
               "name": "Minecraft Forge (modlauncher)",
               "type": "Library",
               "artifact": {
+                "size": 126747,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
@@ -143,6 +156,7 @@
               "name": "Minecraft Forge (grossjava9hacks)",
               "type": "Library",
               "artifact": {
+                "size": 2113,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
@@ -151,6 +165,7 @@
               "name": "Minecraft Forge (accesstransformers)",
               "type": "Library",
               "artifact": {
+                "size": 76586,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
@@ -159,6 +174,7 @@
               "name": "Minecraft Forge (antlr4-runtime)",
               "type": "Library",
               "artifact": {
+                "size": 337868,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
@@ -167,6 +183,7 @@
               "name": "Minecraft Forge (eventbus)",
               "type": "Library",
               "artifact": {
+                "size": 42873,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
@@ -175,6 +192,7 @@
               "name": "Minecraft Forge (forgespi)",
               "type": "Library",
               "artifact": {
+                "size": 20172,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
@@ -183,6 +201,7 @@
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
+                "size": 25453,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
@@ -191,6 +210,7 @@
               "name": "Minecraft Forge (unsafe)",
               "type": "Library",
               "artifact": {
+                "size": 2834,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
@@ -199,6 +219,7 @@
               "name": "Minecraft Forge (core)",
               "type": "Library",
               "artifact": {
+                "size": 199091,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
@@ -207,6 +228,7 @@
               "name": "Minecraft Forge (toml)",
               "type": "Library",
               "artifact": {
+                "size": 31288,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
@@ -215,6 +237,7 @@
               "name": "Minecraft Forge (jline)",
               "type": "Library",
               "artifact": {
+                "size": 732926,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
@@ -223,6 +246,7 @@
               "name": "Minecraft Forge (maven-artifact)",
               "type": "Library",
               "artifact": {
+                "size": 57824,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
@@ -231,6 +255,7 @@
               "name": "Minecraft Forge (typetools)",
               "type": "Library",
               "artifact": {
+                "size": 15425,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
@@ -239,6 +264,7 @@
               "name": "Minecraft Forge (log4j-api)",
               "type": "Library",
               "artifact": {
+                "size": 301804,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
@@ -247,6 +273,7 @@
               "name": "Minecraft Forge (log4j-core)",
               "type": "Library",
               "artifact": {
+                "size": 1789769,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
@@ -255,6 +282,7 @@
               "name": "Minecraft Forge (log4j-slf4j18-impl)",
               "type": "Library",
               "artifact": {
+                "size": 21223,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
@@ -263,6 +291,7 @@
               "name": "Minecraft Forge (terminalconsoleappender)",
               "type": "Library",
               "artifact": {
+                "size": 15977,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
@@ -271,6 +300,7 @@
               "name": "Minecraft Forge (jopt-simple)",
               "type": "Library",
               "artifact": {
+                "size": 78146,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
@@ -279,6 +309,7 @@
               "name": "Minecraft Forge (mixin)",
               "type": "Library",
               "artifact": {
+                "size": 1069391,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
@@ -287,6 +318,7 @@
               "name": "Minecraft Forge (nashorn-core-compat)",
               "type": "Library",
               "artifact": {
+                "size": 2194057,
                 "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
@@ -297,6 +329,7 @@
           "name": "SecurityCraft",
           "type": "ForgeMod",
           "artifact": {
+            "size": 2986962,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/1.16.5SecurityCraftv1.9.5.jar"
           }
         },
@@ -305,6 +338,7 @@
           "name": "ApexCore",
           "type": "ForgeMod",
           "artifact": {
+            "size": 340004,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/apexcore-1.16.5-1.9.4.jar"
           }
         },
@@ -313,6 +347,7 @@
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
           "artifact": {
+            "size": 2033912,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar"
           }
         },
@@ -321,6 +356,7 @@
           "name": "MrCrayfish's Gun Mod",
           "type": "ForgeMod",
           "artifact": {
+            "size": 1607217,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/cgm-1.2.6-1.16.5.jar"
           }
         },
@@ -329,6 +365,7 @@
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
+            "size": 11564279,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/create-mc1.16.5_v0.3.2g.jar"
           }
         },
@@ -337,6 +374,7 @@
           "name": "Decoration and furniture mod",
           "type": "ForgeMod",
           "artifact": {
+            "size": 7894096,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/DecorationMod1.6Ver1.16.5.jar"
           }
         },
@@ -345,6 +383,7 @@
           "name": "Fantasy's Furniture",
           "type": "ForgeMod",
           "artifact": {
+            "size": 1185710,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/fantasyfurniture-1.16.5-2.0.2.jar"
           }
         },
@@ -353,6 +392,7 @@
           "name": "Flywheel",
           "type": "ForgeMod",
           "artifact": {
+            "size": 420923,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar"
           }
         },
@@ -361,6 +401,7 @@
           "name": "GamingDeco",
           "type": "ForgeMod",
           "artifact": {
+            "size": 6262760,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/GamingDeco1.8.3Forge1.16.5.jar"
           }
         },
@@ -369,6 +410,7 @@
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
+            "size": 839446,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1009.jar"
           }
         },
@@ -377,6 +419,7 @@
           "name": "Litematica",
           "type": "ForgeMod",
           "artifact": {
+            "size": 863337,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/litematica-forge-1.16.5-0.0.0-dev.20210917.jar"
           }
         },
@@ -385,6 +428,7 @@
           "name": "MaLiLib",
           "type": "ForgeMod",
           "artifact": {
+            "size": 401987,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/malilib-forge-1.16.5-0.10.0-dev.21beta.1.jar"
           }
         },
@@ -393,6 +437,7 @@
           "name": "Obfuscate",
           "type": "ForgeMod",
           "artifact": {
+            "size": 142536,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar"
           }
         },
@@ -401,6 +446,7 @@
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
+            "size": 5400622,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/optionalon/OptiFine-1.16.5_HD_U_G8_pre2.jar"
           },
           "required": {
@@ -412,6 +458,7 @@
           "name": "Registrator",
           "type": "ForgeMod",
           "artifact": {
+            "size": 503070,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/registrator-1.16.5-1.4.2.jar"
           }
         },
@@ -420,6 +467,7 @@
           "name": "Secret Rooms 6",
           "type": "ForgeMod",
           "artifact": {
+            "size": 241752,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/secretrooms-1.16.5-1.1.4.jar"
           }
         },
@@ -428,6 +476,7 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
+            "size": 548669,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/simplylight-1.16.5-1.4.2-build.32.jar"
           }
         },
@@ -436,6 +485,7 @@
           "name": "TLSkinCape",
           "type": "ForgeMod",
           "artifact": {
+            "size": 450392,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/tl_skin_cape_forge_1.16.5-1.17.jar"
           }
         },
@@ -444,6 +494,7 @@
           "name": "MrCrayfish's Vehicle Mod",
           "type": "ForgeMod",
           "artifact": {
+            "size": 3397300,
             "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar"
           }
         }
