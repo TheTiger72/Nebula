@@ -491,9 +491,7 @@
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5400622,
-            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/optionalon/OptiFine-1.16.5_HD_U_G8_pre2.jar",
-            "MD5": "c41845636fa33e967f310dc0310b4883"
+            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/optionalon/OptiFine-1.16.5_HD_U_G8_pre2.jar"
           },
           "required": {
             "value": false
