@@ -504,9 +504,7 @@
           "name": "Registrator",
           "type": "ForgeMod",
           "artifact": {
-            "size": 503070,
-            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/registrator-1.16.5-1.4.2.jar",
-            "MD5": "476ad0385e7dabdc17dd6b555eff8255"
+            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/registrator-1.16.5-1.4.2.jar"
           }
         },
         {
@@ -514,9 +512,7 @@
           "name": "Secret Rooms 6",
           "type": "ForgeMod",
           "artifact": {
-            "size": 241752,
-            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/secretrooms-1.16.5-1.1.4.jar",
-            "MD5": "02a6ab3747981645111a94b78c0eb89f"
+            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/secretrooms-1.16.5-1.1.4.jar"
           }
         },
         {
@@ -524,9 +520,7 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
-            "size": 548669,
-            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/simplylight-1.16.5-1.4.2-build.32.jar",
-            "MD5": "0a98756eedbbfaf5c8e4f8f34b821ce8"
+            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/simplylight-1.16.5-1.4.2-build.32.jar"
           }
         },
         {
@@ -534,9 +528,7 @@
           "name": "TLSkinCape",
           "type": "ForgeMod",
           "artifact": {
-            "size": 450392,
-            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/tl_skin_cape_forge_1.16.5-1.17.jar",
-            "MD5": "9702f3c7b21c603e0f58e315cdc929f2"
+            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/tl_skin_cape_forge_1.16.5-1.17.jar"
           }
         },
         {
@@ -544,9 +536,7 @@
           "name": "MrCrayfish's Vehicle Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3397300,
-            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
-            "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
+            "url": "https://www.mediafire.com/folder/i9j76t49gfnuw/servers/Mythicraft-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar"
           }
         }
       ]
