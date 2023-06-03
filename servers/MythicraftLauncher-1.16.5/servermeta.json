@@ -2,9 +2,9 @@
   "$schema": "file:///C:/Users/Zaworski%20Luigi/Downloads/Mythicraft-Launcher/Nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Mythicraft (Minecraft 1.16.5)",
-    "description": "Mythicraft Running Minecraft 1.16.5 (Forge v36.2.34)",
-    "address": "mythicraft.xtremcraft.fr",
+    "name": "MythicraftLauncher (Minecraft 1.16.5)",
+    "description": "MythicraftLauncher Running Minecraft 1.16.5 (Forge v36.2.34)",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
