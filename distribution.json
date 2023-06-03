@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "MythicraftLauncher-1.16.5",
-      "name": "MythicraftLauncher (Minecraft 1.16.5)",
-      "description": "MythicraftLauncher Running Minecraft 1.16.5 (Forge v36.2.34)",
+      "name": "Mythicraft (Minecraft 1.16.5)",
+      "description": "Mythicraft Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": null,
       "version": "1.0.0",
       "address": "mythicraft.xtremcraft.fr",
